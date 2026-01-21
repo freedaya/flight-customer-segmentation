@@ -34,7 +34,7 @@ Columns used in this project:
 - **Points_Sum**: Total points earned  
 - **Point_NotFlight**: Points not used  
 
-> **Note:** This project was done in **Jupyter Notebook** 📝  
+> **Note:** This project was done in **Google Colab** 📝  
 
 ## 🔍 Analysis Workflow  
 - Data preprocessing (missing values, feature selection)  
@@ -94,4 +94,3 @@ Columns used in this project:
 - Pandas & NumPy  
 - Matplotlib & Seaborn  
 - Scikit-learn  
-- Jupyter Notebook  
